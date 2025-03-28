@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Hristb",
     "base_url": "https://Hristb.github.io",
     "base_path": "/AstroBlogWeb",
     "trailing_slash": false,
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "Hristb"
   },
 
   "settings": {
