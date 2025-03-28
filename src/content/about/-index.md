@@ -1,9 +1,12 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
-draft: false
----
+title: "🚀 ¡Hola! Soy Hrist Joy"  
+meta_title: "Sobre Mí"  
+description: ""  
+image: "/images/avatar.png"  
+draft: false  
+---  
+Apasionado por la tecnología, la innovación y el aprendizaje continuo, soy un Desarrollador Full Stack que disfruta ser parte de nuevas creaciones.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Desde mis inicios en el desarrollo, he buscado mejorar constantemente mis habilidades y compartir conocimientos. Aquí encontrarás más que solo código: experiencias, ideas y aprendizajes sobre desarrollo web, arquitectura en la nube y tecnología.
+
+Me motiva la evolución del sector, la optimización de procesos y la construcción de soluciones que realmente marquen la diferencia. Si compartes esta pasión, ¡bienvenido a un espacio donde la tecnología y la creatividad se unen para innovar! 🚀

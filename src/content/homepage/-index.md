@@ -1,51 +1,50 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Explora Mi Mundo de Desarrollo y Creatividad"
+  content: "Bienvenido a mi espacio personal. Aquí comparto mi trayectoria, proyectos y aprendizajes en el mundo del desarrollo web y la tecnología. Descubre mis creaciones y únete a mi viaje."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Ver Mis Proyectos"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "🚀 ¿Qué Encontrarás Aquí?"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "📌 Este espacio es más que una simple página personal. Es un reflejo de mi trayectoria y creaciones. Aquí podrás explorar:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Mi Historia** – Mi camino en el desarrollo y la tecnología."
+      - "**Proyectos Destacados** – Aplicaciones y soluciones innovadoras."
+      - "**Tecnologías** – Herramientas que uso, como Angular, TypeScript y Spring Boot."
+      - "**Blog & Recursos** – Consejos, aprendizajes y experiencias en desarrollo."
+      - "**Código Abierto** – Repositorios y herramientas para la comunidad."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "🌟 Habilidades y Tecnologías"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "💡 Trabajo con herramientas modernas para desarrollar soluciones escalables y optimizadas:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Frontend:** Angular, TypeScript, SCSS, TailwindCSS y metodologías como BEM."
+      - "**Backend & Microservicios:** Java, Spring Boot, APIs REST, MySQL, Oracle, SQL y MongoDB."
+      - "**Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD con Azure DevOps y GitHub Actions."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "🚀 Explora Mis Proyectos"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "🔥 ¿Por Qué Elegirme Para Tu Proyecto?"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Cada desarrollo que realizo no es solo código, sino una solución optimizada, escalable y bien diseñada."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Arquitectura Full Stack:** Desarrollo robusto con Angular, TypeScript, Java y Spring Boot."
+      - "**Optimización & UX:** Lazy loading, SSR/SSG y rendimiento mejorado."
+      - "**Código Mantenible:** Principios SOLID, Clean Code, BEM y TailwindCSS."
+      - "**Escalabilidad & Seguridad:** Arquitecturas desacopladas, OAuth2, JWT y cloud computing."
     button:
       enable: false
       label: ""

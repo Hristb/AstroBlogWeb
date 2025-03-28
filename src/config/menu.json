@@ -1,57 +1,30 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
+      "name": "Inicio",
+      "url": "/AstroBlogWeb"
     },
     {
-      "name": "About",
+      "name": "Sobre Mí",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Proyectos",
+      "url": "/blog"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/AstroBlogWeb/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/AstroBlogWeb/privacy-policy"
     }
   ]
 }
