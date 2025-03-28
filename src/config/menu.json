@@ -6,15 +6,15 @@
     },
     {
       "name": "Sobre Mí",
-      "url": "/about"
+      "url": "/AstroBlogWeb/about"
     },
     {
       "name": "Proyectos",
-      "url": "/blog"
+      "url": "/AstroBlogWeb/blog"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/AstroBlogWeb/contact"
     }
   ],
   "footer": [
